@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak
+- 👋 Hi,
 - 👀 I’m interested in Visual Design, Data Visualization and BI.
 - 🌱 I’m currently learning D3
 - 💞️ I’m looking to collaborate on Visual Design, and Data Visualizatio
